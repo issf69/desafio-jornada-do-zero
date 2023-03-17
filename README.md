@@ -9,7 +9,11 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-creditos">Créditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  
+  
+ 
 </p>
 
 <p align="center">
@@ -42,6 +46,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+## 💳 Créditos
 ---
+
 
 Feito com ♥ by Rocketseat Projeto de estudo da aluna Irene Silva França, feito através Plataforma Rocketseat :wave: [Participe da nossa comunidade!](https://www.rocketseat.com.br/)
