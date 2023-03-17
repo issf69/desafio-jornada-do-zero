@@ -42,11 +42,15 @@ O  jornada do zero à primeira vaga ,mostra qual será o percurso ideal para voc
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1216014509044898198). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+
+## 💳 Créditos
+
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
-## 💳 Créditos
+
 ---
 
 
